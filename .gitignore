@@ -59,3 +59,9 @@ typings/
 
 # Public folder
 public
+
+# Yarn lock file
+yarn.lock
+
+# Npm lock file
+npm.lock
